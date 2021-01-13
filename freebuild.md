@@ -1,3 +1,12 @@
+# Quelques infos...
+* Il est recommané de rejoindre le [discord](http://over2craft.com/discord)
+* Il existe 3 maps ressources (nether, normal et end) accessible depuis `/maps`
+* Les maps ressources sont reset tout les lundis matin automatiquement
+* Il existe 2 maps de construction (normal customisé et nether) accessible depuis `/maps`
+* Lorsque votre cheval est sellé, si vous descendez de votre cheval une selle vous sera donné et votre cheval disparaît. Utilisez la selle pour le faire réapparaitre.
+* Vous pouvez obtenir des OverClé en [votant](http://over2craft.com/vote) puis les utiliser au `/warp vote`
+* Une dynmap est disponible [ici](http://over2craft.com/dynmap)
+
 # Quelques commandes utiles...
 * `/help` Accéder à l'aide IG
 * `/sethome <nom du home>` Placer un home
@@ -13,6 +22,8 @@
 * `/warp ferme` : Élevage de tous types d'animaux passifs (vaches, cochons, moutons...) accessibles pour nourriture et ressources
 * `/warp portails` : Accès à la salle des portails, vous y trouverez un portail vers le Nether et un portail vers l'Ender et des portails pour chacune des villes du serveur
 * `/buywarp <nom du warp>`Acheter un warp pour 20 000 Overs
+* `/hdv` ou `/ah` Hôtel des ventes entre joueurs
+* `/ah sell <prix>` Mettre en vente l'item dans votre main à l'hdv
 
 # Les grades 
 
@@ -55,3 +66,15 @@
 ## Construire en ville (parcelle)
 
 ## Construire en nature
+Vous pouvez construire en nature où vous le désirez à condition de ne pas porter atteinte aux constructions des autres. 
+Vous avez le choix de claim ou non votre construction. Si votre construction n'est pas claim et qu'un grief à lieu, il sera nécéssaire
+d'appeler un modérateur pour faire rollback les griefs. 
+
+### Les commandes pour claim 
+* `/kit membre` - Obtenir une pelle en or
+* Clic droit sur le sol avec la pelle en main pour définir le 1er coin du carré
+* Clic droit une 2e fois sur le sol avec la pelle en main pour définir le 2e coin
+* `/trust <Pseudo>` - Ajoute tes amis dans ton claim
+* `/abandonclaim` - Abandonne le claim dans lequel tu te trouves
+* `/claimlist` - Liste de tes claims, et blocs disponibles restants
+* `/buyclaim` - Acheter des claims de blocs supplémentaires (30 Overs le bloc)
