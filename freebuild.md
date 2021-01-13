@@ -79,7 +79,7 @@ d'appeler un modérateur pour faire rollback les griefs.
 * `/claimlist` - Liste de tes claims, et blocs disponibles restants
 * `/buyclaim` - Acheter des claims de blocs supplémentaires (30 Overs le bloc)
 
-### Les commandes pour protéger vos coffres
+## Les commandes pour protéger vos coffres
 * Placer le coffre que vous voulez protéger
 * Prenez un panneau et faite clique droit dessus. Par default, celui se placera automatiquement en mode "private".
 * Si vous avez envie de rajouter d'autre personne à votre coffre protégé. Vous devrez exécuter une commande.
