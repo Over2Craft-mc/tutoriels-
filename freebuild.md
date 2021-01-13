@@ -17,7 +17,7 @@
 * Ecrire en [couleurs](https://static.planetminecraft.com/files/resource_media/screenshot/1444/minecraftcolourcodes8294254.jpg) dans le tchat et sur les panneaux 
 * Toutes les permissions du membre
 
-## Premium
+## Premium (100 000 Overs pour 15j ou 3€ pour 15j)
 * Peut poser jusqu'à 10 spawners
 * 6 homes `/sethome <nom du home>`
 * Garder son XP après sa mort 
