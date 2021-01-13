@@ -41,7 +41,8 @@
 * Voler `/fly`
 * 6 homes `/sethome <nom du home>`
 * Se nourrir `/feed`
-* Ecrire en [couleurs](https://static.planetminecraft.com/files/resource_media/screenshot/1444/minecraftcolourcodes8294254.jpg) dans le tchat et sur les panneaux 
+* Ecrire en [couleurs](https://static.planetminecraft.com/files/resource_media/screenshot/1444/minecraftcolourcodes8294254.jpg) dans le tchat et sur les panneaux
+* La possibilité de rename vos item en couleur via une enclume.
 * Toutes les permissions du membre
 
 ## Premium (100 000 Overs pour 15j ou 3€ pour 15j)
