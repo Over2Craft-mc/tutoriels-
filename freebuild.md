@@ -78,3 +78,10 @@ d'appeler un modérateur pour faire rollback les griefs.
 * `/abandonclaim` - Abandonne le claim dans lequel tu te trouves
 * `/claimlist` - Liste de tes claims, et blocs disponibles restants
 * `/buyclaim` - Acheter des claims de blocs supplémentaires (30 Overs le bloc)
+
+### Les commandes pour protéger vos coffres
+* Placer le coffre que vous voulez protéger
+* Prenez un panneau et faite clique droit dessus. Par default, celui se placera automatiquement en mode "private".
+* Si vous avez envie de rajouter d'autre personne à votre coffre protégé. Vous devrez exécuter une commande.
+* `/lockette <numéro de la ligne> <pseudo>` : Attention, la ligne numéro 1 et 2 ne doivent pas être changé, sous peine que la protection ne fonctionne plus.
+* Exemple : `/lockette 3 alexisdepris`: "Alexisdepris" sera donc ajouté à la protection.
