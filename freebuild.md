@@ -1,3 +1,19 @@
+# Quelques commandes utiles...
+* `/help` Accéder à l'aide IG
+* `/sethome <nom du home>` Placer un home
+* `/tpa` `/tpahere` se téporter à un joueur
+* `/msg <pseudo>` Verrouillez ou déverrouillez vos messages sur un joueur
+* `/menu` Accéder au menu
+* `/maps` Accéder au menu des maps 
+* `/maps <construction|ressource> <nether|normal|end>` Se téléporter aléatoirement vers une des maps 
+* `/rtp` Se téléporter aléatoirement sur la map où vous vous trouvez 
+* `/warp <nom du warp>` Se rendre à un warp
+* `/warp adminshop` : Magasin de l'admin - Vous y trouverez toutes sortes de ressources, outils et cubes pour acheter ou pour vendre
+* `/warp adminshop2` : Magasin de l'admin - Vous y trouverez toutes sortes de ressources, outils et cubes pour acheter ou pour vendre
+* `/warp ferme` : Élevage de tous types d'animaux passifs (vaches, cochons, moutons...) accessibles pour nourriture et ressources
+* `/warp portails` : Accès à la salle des portails, vous y trouverez un portail vers le Nether et un portail vers l'Ender et des portails pour chacune des villes du serveur
+* `/buywarp <nom du warp>`Acheter un warp pour 20 000 Overs
+
 # Les grades 
 
 ## Membre (grade par défaut)
