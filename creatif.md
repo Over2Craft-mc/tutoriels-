@@ -20,6 +20,7 @@
 * 4 plots 50*50
 * 1 plots 100*100
 * `/banner` Générateur de banière 
+* `/svis we (paste) (lock/tp)` Si `paste` n'est pas précisé, votre séléction WorldEdit sera affichée. `Lock` permet de verouillé la prévisualisation, et `tp` de vous y téléporter
 
 
 ## Builder 
