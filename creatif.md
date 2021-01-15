@@ -1,3 +1,8 @@
+# Quelques infos...
+* anti-world downloader 
+* Les clocks de redstone sont bloqués si elles sont trop rapide
+* Vous ne pouvez poser des items redstone qu'après un certain nombre d'heure de jeu
+
 # Maps
 * Plots 50*50
 * Plots 100*100
