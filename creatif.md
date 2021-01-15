@@ -23,6 +23,6 @@
 * `/heads` Base de données de tête décorative 
 * Brush custom avec un flint (goBrush)
 * Outils de painting avec une plume (goPaint)
-* 6 plots 50*50
-* 4 plots 100*100
-* 2 plots 300*300
+* 8 plots 50*50
+* 6 plots 100*100
+* 4 plots 300*300
