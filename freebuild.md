@@ -1,7 +1,7 @@
 # Quelques infos...
 * Il est recommané de rejoindre le [discord](http://over2craft.com/discord)
 * Il existe 3 maps ressources (une nether, une normal et une end) accessible depuis `/maps`
-* Les maps ressources sont reset tout les lundis matin automatiquement
+* Les maps ressources sont reset tout les lundis matin automatiquement (et l'ender dragon également)
 * Il existe 2 maps pour construire (une normal customisé et une nether) accessible depuis `/maps`
 * Lorsque votre cheval est sellé, si vous descendez de votre cheval une selle vous sera donné et votre cheval disparaît. Utilisez la selle pour le faire réapparaitre.
 * Vous pouvez obtenir des OverClé en [votant](http://over2craft.com/vote) puis les utiliser au `/warp vote`
