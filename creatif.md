@@ -21,6 +21,8 @@
 * 1 plots 100*100
 * `/banner` Générateur de banière 
 * `/svis we (paste) (lock/tp)` Si `paste` n'est pas précisé, votre séléction WorldEdit sera affichée. `Lock` permet de verouillé la prévisualisation, et `tp` de vous y téléporter
+* `/svis toggle` Activer / désactiver la prévisualiation 
+* `/svis gui` Régler certains paramètes dans un GUI
 
 
 ## Builder 
