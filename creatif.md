@@ -12,7 +12,6 @@
 # Rangs 
 
 ## Joueur 
-* Pour gérer vos plots `/plot help`
 * Changer son mode de jeu `/gm`  
 * WorldEdit (voir la section WorldEdit)
 * VoxelSniper (voir la section VoxelSniper)
