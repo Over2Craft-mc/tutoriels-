@@ -12,10 +12,10 @@
 # Rangs 
 
 ## Joueur 
+* Pour gérer vos plots `/plot help`
 * Changer son mode de jeu `/gm`  
 * WorldEdit (voir la section WorldEdit)
 * VoxelSniper (voir la section VoxelSniper)
-* Visualiser sa séléction (TODO)
 * `/ptime` et `/pweather` pour régler son heure et sa météo
 * 4 plots 50*50
 * 1 plots 100*100
