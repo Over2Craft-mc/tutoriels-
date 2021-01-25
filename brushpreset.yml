@@ -22,7 +22,7 @@ items:
           - "&8//br surface farmland'"
         left_click_commands:
           - "[player] tool none"
-          - "[player] /br surface farmland'"
+          - "[player] /br surface farmland"
 
     'wheat':
         material: WHEAT
