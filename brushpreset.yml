@@ -11,21 +11,22 @@ items:
         hide_attributes: true # Ne pas toucher 
         display_name: 'Brush farmland' # Nom de l'item
         lore:
-          - "&8Permet de placer du farmland"
-          - "&8(terre labourée)"
+          - "&7Permet de placer du farmland"
+          - "&7(terre labourée)"
           - ""
-          - "&8Prennez un outil en main pour appliquer le brush sur l'outil"
-          - "&8(terre labourée)"
+          - "&4Accessible aux &9joueurs &4et &6builders"
           - ""
-          - "&8Commandes (ou faîtes un clique gauche):"
-          - "&8/tool none"
-          - "&8//br surface farmland'"
+          - "&2Usage: "
+          - "&aPrennez un outil en main pour appliquer le brush sur l'outil"
+          - "&aet faîtes clique gauche"
+          - ""
+          - "&2Commandes (ou faîtes un clique gauche):"
+          - "&a/tool none"
+          - "&a//br surface farmland'"
         left_click_commands: 
-          # Il doit y avoir toujours 3 commandes ici (sinon, l'ordre d'execution n'est pas respecté)
-          # actions possibles : https://wiki.helpch.at/clips-plugins/deluxemenus/options-and-configurations
-          - "[message] " # Juste pour avoir un troisème commande.. 
+         # <delay=5> permet de décaller l'usage de la commande pour qu'elle s'exeucte dans le bon ordre
           - "[player] tool none"
-          - "[player] /br surface farmland"
+          - "[player] /br surface farmland<delay=5>"
 
     'wheat': # Identifiant de votre item, vous pouvez mettre ce que vous souhaitez pour peu que ce soit explicite
         material: WHEAT # ID de l'item qui sera dans l'inventaire https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/Material.html
@@ -35,23 +36,25 @@ items:
         hide_attributes:  true # Ne pas toucher 
         display_name: 'Brush wheat' # Nom de l'item
         lore:
-          - "&8Permet de placer poser du blé"
-          - "&8qui a déjà poussé"
+          - "&7Permet de placer poser du blé"
+          - "&7qui a déjà poussé"
           - " "
           - "&4Requière d'avoir posé du farmland"
+          - "&4Accessible aux &9joueurs &4et &6builders"
           - ""
-          - "&8Prennez un outil en main pour appliquer le brush sur l'outil"
+          - "&2Usage: "
+          - "&aPrennez un outil en main pour appliquer le brush sur l'outil"
+          - "&aet faîtes clique gauche"
           - ""
-          - "&8Commandes (ou faîtes un clique gauche):"
-          - "&8/tool none"
-          - "&8//mask >farmland"
-          - "&8//br s wheat[age=7] 5"
+          - "&2Commandes (ou faîtes un clique gauche):"
+          - "&a/tool none"
+          - "&a//mask >farmland"
+          - "&a//br s wheat[age=7] 5"
         left_click_commands:
-          # Il doit y avoir toujours 3 commandes ici (sinon, l'ordre d'execution n'est pas respecté)
-          # actions possibles : https://wiki.helpch.at/clips-plugins/deluxemenus/options-and-configurations
+        # <delay=5> permet de décaller l'usage de la commande pour qu'elle s'exeucte dans le bon ordre
           - "[player] tool none"
-          - "[player] /br s wheat[age=7] 5"
-          - "[player] /mask >farmland"
+          - "[player] /br s wheat[age=7] 5<delay=5>"
+          - "[player] /mask >farmland<delay=10>"
 
     'filler_item':
         priority: 2
