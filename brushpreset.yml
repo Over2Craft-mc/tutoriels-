@@ -1,6 +1,6 @@
 #open_command: plots
 size: 54
-menu_title: 'Menu des plots'
+menu_title: 'Menu des brush'
 
 items: 
     'farmland':
