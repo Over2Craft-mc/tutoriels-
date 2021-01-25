@@ -1,0 +1,111 @@
+#open_command: plots
+size: 54
+menu_title: 'Menu des plots'
+
+items: 
+    'farmland':
+        material: FARMLAND
+        slot: 0
+        priority: 1
+        update: true
+        hide_attributes:  true
+        display_name: 'Brush farmland'
+        lore:
+          - "&8Permet de placer du farmland"
+          - "&8(terre labourée)"
+          - ""
+          - "&8Prennez un outil en main pour appliquer le brush sur l'outil"
+          - "&8(terre labourée)"
+          - ""
+          - "&8Commandes (ou faîtes un clique gauche):"
+          - "&8/tool none"
+          - "&8//br surface farmland'"
+        left_click_commands:
+          - "[player] tool none"
+          - "[player] /br surface farmland'"
+
+    'wheat':
+        material: WHEAT
+        slot: 1
+        priority: 1
+        update: true
+        hide_attributes:  true
+        display_name: 'Brush wheat'
+        lore:
+          - "&8Permet de placer poser du blé"
+          - "&8qui a déjà poussé"
+          - " "
+          - "&4Requière d'avoir posé du farmland"
+          - ""
+          - "&8Prennez un outil en main pour appliquer le brush sur l'outil"
+          - ""
+          - "&8Commandes (ou faîtes un clique gauche):"
+          - "&8/tool none"
+          - "&8//mask >farmland"
+          - "&8//br s wheat[age=7] 5"
+        left_click_commands:
+          - "[player] tool none"
+          - "[player] /mask >farmland"
+          - "[player] /br s wheat[age=7] 5"
+
+    'filler_item':
+        priority: 2
+        material: GRAY_STAINED_GLASS_PANE
+        slots:
+          - 0
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+          - 6
+          - 7
+          - 8
+          - 9
+          - 10
+          - 11
+          - 12
+          - 13
+          - 14
+          - 15
+          - 16
+          - 17
+          - 18
+          - 19
+          - 20
+          - 21
+          - 22
+          - 23
+          - 24
+          - 25
+          - 26
+          - 27
+          - 28
+          - 29
+          - 30
+          - 31
+          - 32
+          - 33
+          - 34
+          - 35
+          - 36
+          - 37
+          - 38
+          - 39
+          - 40
+          - 41
+          - 42
+          - 43
+          - 44
+          - 45
+          - 46
+          - 47
+          - 48
+          - 49
+          - 50
+          - 51
+          - 52
+          - 53
+        display_name: ' '   
+
+sweet: true
