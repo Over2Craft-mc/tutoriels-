@@ -58,6 +58,18 @@ items:
           - "[player] /br s wheat[age=7] 5<delay=5>"
           - "[player] /mask >farmland<delay=10>"
 
+    'info':
+        priority: 1
+        material: BOOK
+        slots:
+          - 53
+        lore:
+          - "&7Envie de voir votre preset de brush ici ?"
+          - "&7Clique gauche pour faire une suggestion"
+        display_name: 'Info'  
+        left_click_commands:
+          - "[message] &6Envie de voir votre preset de brush ici ? Faîtes une suggestion https://github.com/Over2Craft-mc/community/blob/main/brushpreset.yml"
+
     'filler_item':
         priority: 2
         material: GRAY_STAINED_GLASS_PANE
@@ -117,5 +129,6 @@ items:
           - 52
           - 53
         display_name: ' '   
+       
 
 sweet: true
