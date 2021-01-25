@@ -3,6 +3,8 @@ size: 54
 menu_title: 'Menu des brush'
 
 items: 
+
+    # Example de preset de brush
     'farmland': # Identifiant de votre item, vous pouvez mettre ce que vous souhaitez pour peu que ce soit explicite
         material: FARMLAND # ID de l'item qui sera dans l'inventaire https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/Material.html
         slot: 0 # Emplacement dans l'inventaire (0 sera celui tout en haut à gauche, 1 celui juste à droite du 0, etc...)
