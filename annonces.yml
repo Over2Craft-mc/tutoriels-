@@ -1,0 +1,392 @@
+Settings:
+  messagesOrder: NORMAL
+  interval: 300
+  minOnlineCountForWork: 1
+  noPermMessage: '§cYou don''t have permissions!'
+  enableVariables: true
+  debugJsonErrors: false
+Messages:
+  '1':
+    SHOWMODE: ONLYFOR
+    SERVERS:
+    - freebuild
+    LINES:
+    - ''
+    - '&3Astuce #1: &7Vous pouvez chercher vos ressources au &e/warp mr&7, faites ensuite un &e/rtp&7 pour un tp aléatoire'
+    - ''
+  '2':
+    SHOWMODE: ONLYFOR
+    SERVERS:
+    - freebuild
+    LINES:
+    - ''
+    - '&3Astuce #2: &7Les maps ressources (nether et end comprises) sont réinitialisées tous les mois'
+  '3':
+    SHOWMODE: ONLYFOR
+    SERVERS:
+    - freebuild
+    LINES:
+    - ''
+    - '&3Astuce #3: &7Vous pouvez acheter un warp avec &e/buywarp&7 pour &e5000 Overs&7, celui-ci durera &e30 jours&7 !'
+  '4':
+    SHOWMODE: ONLYFOR
+    SERVERS:
+    - freebuild
+    LINES:
+    - ''
+    - '&3Astuce #4: &7Vous avez des items à acheter/vendre ? Vous trouverez probablement votre bonheur au &e/warp adminshop'
+    - ''
+  '5':
+    SHOWMODE: ONLYFOR
+    SERVERS:
+    - freebuild
+    LINES:
+    - ''
+    - '&3Astuce #5: &7Vous pouvez obtenir un &8[&6VIP&8]&7 ou un &8[&5Premium&8]&7 d''une durée de 15 jours via le &e/grades'
+    - ''
+  '6':
+    SHOWMODE: ONLYFOR
+    SERVERS:
+    - freebuild
+    LINES:
+    - ''
+    - '&3Astuce #6: &7Faites &e/vote&7 pour voter et soutenir le serveur et gagner une &eOverClé&7 !'
+    - ''
+  '7':
+    SHOWMODE: ONLYFOR
+    SERVERS:
+    - freebuild
+    LINES:
+    - ''
+    - '&3Astuce #7: &7Êtes-vous mort ? Vous avez peut-être une chance de revenir sur votre cadavre en faisant &e/back&7 !'
+    - ''
+  '8':
+    SHOWMODE: ONLYFOR
+    SERVERS:
+    - freebuild
+    LINES:
+    - ''
+    - '&3Astuce #8: &7Vous voulez souhaiter le bienvenue à un nouveau joueur ? Essayez le &e/b'
+    - ''
+  '9':
+    SHOWMODE: ONLYFOR
+    SERVERS:
+    - freebuild
+    LINES:
+    - ''
+    - '&3Astuce #9: &7Une map en ligne est disponible via le &e/dynmap'
+    - ''
+  '10':
+    SHOWMODE: ONLYFOR
+    SERVERS:
+    - freebuild
+    LINES:
+    - ''
+    - '&3Astuce #10: &7Avez-vous déjà protégé votre construction ? Si non, allez faire un tour au &e/help claim'
+    - ''
+  '11':
+    SHOWMODE: ONLYFOR
+    SERVERS:
+    - freebuild
+    LINES:
+    - ''
+    - '&3Astuce #11: &7Vous gagnez &e80 blocs de claim&7 par heure de jeu'
+    - ''
+  '12':
+    SHOWMODE: ONLYFOR
+    SERVERS:
+    - freebuild
+    LINES:
+    - ''
+    - '&3Astuce #12: &7Vous pouvez acheter des blocs de claim supplémentaires avec &e/buyclaim&7 (30 Overs le bloc), et cela jusqu''à 32000 blocs au maximum'
+    - ''
+  '13':
+    SHOWMODE: ONLYFOR
+    SERVERS:
+    - freebuild
+    LINES:
+    - ''
+    - '&3Astuce #13: &7Chaque membre dispose de &e3 homes. Obtenez en plus en achetant un grade (&e/grades&7)'
+    - ''
+  '14':
+    SHOWMODE: ONLYFOR
+    SERVERS:
+    - freebuild
+    LINES:
+    - ''
+    - '&3Astuce #14: &7Utilisez &e/tpa &8[&bJoueur&8] &7pour faire une demande de téléportation à un joueur et &e/tpahere &8[&bJoueur&8]&7 pour tp un joueur à soi-même'
+    - ''
+  '15':
+    SHOWMODE: ONLYFOR
+    SERVERS:
+    - freebuild
+    LINES:
+    - ''
+    - '&3Astuce #15: &7Un doute sur la latence du serveur ? Utilisez &e/tps (TPS en-dessous de 10 = lag)'
+    - ''
+  '16':
+    SHOWMODE: ONLYFOR
+    SERVERS:
+    - freebuild
+    LINES:
+    - ''
+    - '&3Astuce #16: &7Vous jouez sur un grille-pain et n''avez pas beaucoup de FPS? Essayez donc &eOptifine&7 ou un autre mod boostant les performances !'
+    - ''
+  '17':
+    SHOWMODE: ONLYFOR
+    SERVERS:
+    - freebuild
+    LINES:
+    - ''
+    - '&3Astuce #17: &7Connectez-vous en &e1.16.4 Java Edition &7pour profiter de l''ensemble des blocs du jeu !'
+    - ''
+  '18':
+    SHOWMODE: ONLYFOR
+    SERVERS:
+    - freebuild
+    LINES:
+    - ''
+    - '&3Astuce #18: &7Vous aimeriez voir un objet à l''achat/revente à l''Adminshop ? Venez en discuter avec le staff !'
+    - ''
+  '19':
+    SHOWMODE: ONLYFOR
+    SERVERS:
+    - freebuild
+    LINES:
+    - ''
+    - '&3Astuce #19: &7Vous pouvez créer votre propre shop avec un coffre et un panneau ! Vous avez un exemple au &e/spawn&7. Vous pouvez aussi utiliser le &e/hdv'
+    - ''
+  '20':
+    SHOWMODE: ONLYFOR
+    SERVERS:
+    - freebuild
+    LINES:
+    - ''
+    - '&3Astuce #20: &7Des events sont régulièrement organisés avec des gains à la clé. Foncez en &e/event&7 lorsque vous voyez une alerte !'
+    - ''
+  '21':
+    SHOWMODE: ONLYFOR
+    SERVERS:
+    - freebuild
+    LINES:
+    - ''
+    - '&3Astuce #21: &7Vous pouvez acheter des &6Over&aClé&7 et des &eSuper &5Magical &6Over&aClé&7 dans le &b/menu pour gagner des objets en tout genre !'
+    - ''
+  '22':
+    SHOWMODE: ONLYFOR
+    SERVERS:
+    - freebuild
+    LINES:
+    - ''
+    - '&3Astuce #22: &7Affichez le top richesse des joueurs avec &e/money top'
+    - ''
+  '23':
+    SHOWMODE: ONLYFOR
+    SERVERS:
+    - freebuild
+    LINES:
+    - ''
+    - '&3Astuce #23: &7Envoyez un message privé avec &e/m &8[&bPseudo&8] [&amessage&8]&7. Réponse rapide avec &e/r &8[&amessage&8]'
+    - ''
+  '24':
+    SHOWMODE: ONLYFOR
+    SERVERS:
+    - freebuild
+    LINES:
+    - ''
+    - '&3Astuce #24: &7Vous êtes installé en ville mais la vie rurale vous attire ? Vous pouvez demander à un modérateur de déplacer votre maison en nature.'
+    - ''
+  '25':
+    SHOWMODE: ONLYFOR
+    SERVERS:
+    - freebuild
+    LINES:
+    - ''
+    - '&3Astuce #25: &7Vendez ou achetez des items en créant votre shop au &e/warp Zone_commerciale'
+    - ''
+  '26':
+    SHOWMODE: ONLYFOR
+    SERVERS:
+    - freebuild
+    LINES:
+    - ''
+    - '&3Astuce #26: &7Marre de faire des potions ? Vous pouvez acheter des effets permanents jusqu''à votre mort avec &e/effet&7 !'
+    - ''
+  '27':
+    SHOWMODE: ONLYFOR
+    SERVERS:
+    - freebuild
+    LINES:
+    - ''
+    - '&3Astuce #27: &7Vous avez oublié de claim votre maison et des vandales vous l''ont saccagée ? Appelez un modérateur !'
+    - ''
+  '28':
+    SHOWMODE: ONLYFOR
+    SERVERS:
+    - freebuild
+    LINES:
+    - ''
+    - '&3Astuce #28: &7Vous pouvez accéder à l''hôtel de vente via &e/ah &7ou &e/hdv&7 et acheter en vendre des items en quelques clics !'
+    - ''
+  '29':
+    SHOWMODE: ONLYFOR
+    SERVERS:
+    - freebuild
+    LINES:
+    - ''
+    - '&3Astuce #29: &7La reproduction des villageois est désactivée afin de respecter l''économie. Achetez-en pour 15000 Overs au &e/warp adminshop !'
+    - ''
+  '30':
+    SHOWMODE: ONLYFOR
+    SERVERS:
+    - freebuild
+    LINES:
+    - ''
+    - '&3Astuce #30: &7Les villageois sont désactivés en monde ressources afin de respecter l''économie.'
+    - ''
+  '31':
+    SHOWMODE: ONLYFOR
+    SERVERS:
+    - freebuild
+    LINES:
+    - ''
+    - '&3Astuce #31: &7Asseyez-vous en faisant clic droit sur un bloc (aucun objet en main)'
+    - ''
+  '32':
+    SHOWMODE: ONLYFOR
+    SERVERS:
+    - freebuild
+    LINES:
+    - ''
+    - '&3Astuce #32: &7Clic molette sur un item de votre inventaire/coffre pour l''organiser rapidement. Configurez vos raccourcis avec &e/orga&7 !'
+    - ''
+  '33':
+    SHOWMODE: ONLYFOR
+    SERVERS:
+    - freebuild
+    LINES:
+    - ''
+    - '&3Astuce #33: &7Vous pouvez lier votre compte Minecraft avec Discord pour synchroniser votre grade avec celui du serveur Discord avec la commande &e/discordsrv link&7 ! '
+    - ''
+  '34':
+    SHOWMODE: ONLYFOR
+    SERVERS:
+    - freebuild
+    LINES:
+    - ''
+    - '&3Astuce #34: &7Le &e/warp portail&7 vous permet d''accéder à tous les lieux d''intérêts du serveur via des portails'
+    - ''
+  '35':
+    SHOWMODE: ONLYFOR
+    SERVERS:
+    - freebuild
+    LINES:
+    - ''
+    - '&3Astuce #35: &7Besoin de ressources du nether ? Vous trouverez tout au &e/warp Adminshop_Nether&7 ! Ou récoltez vous-même vos ressources en &e/warp nr &7!'
+    - ''
+  '36':
+    SHOWMODE: ONLYFOR
+    SERVERS:
+    - freebuild
+    LINES:
+    - ''
+    - '&3Astuce #36: &7Envie de te battre ? le &e/teambattle&7 est fait pour toi ! Rejoins-le via la commande ou le portail au spawn !'
+    - ''
+  '37':
+    SHOWMODE: ONLYFOR
+    SERVERS:
+    - freebuild
+    LINES:
+    - ''
+    - '&3Astuce #37: &7Fais deviner tes constructions aux autres dans le &e/wonderbuild&7 ! Rejoins-le via la commande ou le portail au spawn !'
+    - ''
+  '38':
+    SHOWMODE: ONLYFOR
+    SERVERS:
+    - freebuild
+    LINES:
+    - ''
+    - '&3Astuce #38: &7Ta parcelle a été reset pour inactivité et tu n''as rien construit ? Contacte un membre du staff et rends-toi au warp &e/objet_trouvé&7 pour récupérer tes biens !'
+    - ''
+  '39':
+    SHOWMODE: ONLYFOR
+    SERVERS:
+    - freebuild
+    LINES:
+    - ''
+    - '&3Astuce #39: &7Les portails du Nether sont désactivés. Pour te rendre dans le nether, utilise les &e/warp netherressources&7 ou &e/warp Nether_Freebuild&7 selon tes besoins'
+    - ''
+  '40':
+    SHOWMODE: ONLYFOR
+    SERVERS:
+    - freebuild
+    LINES:
+    - ''
+    - '&3Astuce #40: &7Les règles à suivre sur le serveur sont régies par les membres du staff ; ainsi tu peux trouver un règlement résumant la majorité des règles sur notre serveur discord !'
+    - ''
+  '41':
+    SHOWMODE: ONLYFOR
+    SERVERS:
+    - freebuild
+    LINES:
+    - ''
+    - '&3Astuce #41: &7Deux joueurs s''aimant passionément peuvent se marrier s''ils le souhaitent, en contactant un membre du staff compétent pour cela !'
+    - ''
+  '42':
+    SHOWMODE: ONLYFOR
+    SERVERS:
+    - freebuild
+    LINES:
+    - ''
+    - '&3Astuce #42: &7L''Infected est de retour en event ! Tu peux jouer avec au minimum 5 joueurs toi compris dans la partie !'
+    - ''
+  '43':
+    SHOWMODE: ONLYFOR
+    SERVERS:
+    - freebuild
+    LINES:
+    - ''
+    - '&3Astuce #43: &7Utilise la commande &e/money pay &8[&bmontant&8]&7 pour donner de l''argent à un joueur'
+    - ''
+  '44':
+    SHOWMODE: ONLYFOR
+    SERVERS:
+    - freebuild
+    LINES:
+    - ''
+    - '&3Astuce #44: &7Le grade &8[&dRoi&8]&7 est un grade unique donnant les mêmes droits qu''un &8[&5Premium&8]&7 ! Il se gagne à l''occasion d''un gros event : la Journée Des Rois'
+    - ''
+  '45':
+    SHOWMODE: ONLYFOR
+    SERVERS:
+    - freebuild
+    LINES:
+    - ''
+    - '&3Astuce #45: &7Dans un shop, la lettre "&eB&7" signifie le prix d''&eachat&7 et la lettre "&bS&7" le prix de &bvente&7, vous pouvez acheter avec &eclic droit&7, et vendre avec &bclic gauche&7 sur le panneau'
+    - ''
+  '46':
+    SHOWMODE: ONLYFOR
+    SERVERS:
+    - freebuild
+    LINES:
+    - ''
+    - '&3Astuce #46: &7Besoin de nourriture ? Vous trouverez plein d''animaux différents au &e/warp ferme&7 !'
+    - ''
+  '47':
+    SHOWMODE: ONLYFOR
+    SERVERS:
+    - freebuild
+    LINES:
+    - ''
+    - '&3Astuce #47: &7Un problème ? Contacte le staff en ligne avec un &c/helpop&7 ou &c/helpme&7 !'    
+    - ''
+  '48':
+    SHOWMODE: ONLYFOR
+    SERVERS:
+    - creatif
+    LINES:
+    - ''
+    - '&3Astuce : &7Un problème ou une question avec WorldEdit, VoxelSniper, GoBrush, GoPaint ou autre ? Rendez-vous sur http://over2craft.com/discord dans #aide-creatif ! Nos meilleurs builders seront vous répondre ;)'    
+    - ''
+
+
